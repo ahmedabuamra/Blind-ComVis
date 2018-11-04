@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: lib.Main
+Class-Path: /home/abuamra/Desktop/projectjar/guava-13.0.1.jar /home/abuamra/Desktop/projectjar/javacpp.jar /home/abuamra/Desktop/projectjar/javacv.jar
+
